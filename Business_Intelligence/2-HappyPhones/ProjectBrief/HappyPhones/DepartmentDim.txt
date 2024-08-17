@@ -1,0 +1,8 @@
+DepartmentID,DepartmentName,DepartmentType
+1,Legal,Operations
+2,Production,Marketing
+3,Production,Operations
+4,Customer service desk,Purchase
+5,HR,HR
+6,HR,Purchase
+7,Sales,Sales

@@ -1,0 +1,11 @@
+MobilePlanID,MobilePlanDurationMonths,MobilePlanType,MobilePlanMonthlyPrice
+1,48,silver,18.51
+2,32,platinum,53.24
+3,12,diamond,57.09
+4,12,bronze,17.32
+5,12,gold,56.14
+6,48,gold,39.19
+7,32,platinum,45.55
+8,32,silver,41.13
+9,48,gold,41.79
+10,32,bronze,24.51

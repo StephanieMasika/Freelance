@@ -1,0 +1,201 @@
+QuestionID,QuestionTopic,QuestionDescription,QuestionSeverity,QuestionUrgencyLevel
+1,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,High
+2,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,High
+3,Bill inquiries,Lorem ipsum dolor sit amet,High,High
+4,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Medium
+5,Connectivity issues,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,High
+6,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Low
+7,Lost/stolen phone inquiries,consectetur adipiscing elit,Low,Low
+8,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Medium,High
+9,Other,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,High,Low
+10,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Low,Low
+11,Lost/stolen phone inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Medium
+12,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,High,Medium
+13,Bill inquiries,consectetur adipiscing elit,High,High
+14,Connectivity issues,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,High
+15,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Low
+16,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,Medium
+17,Lost/stolen phone inquiries,Excepteur sint occaecat cupidatat non proident,Low,Low
+18,Connectivity issues,consectetur adipiscing elit,High,Medium
+19,Bill inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,Low
+20,Bill inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,High,Low
+21,Lost/stolen phone inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Low
+22,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,Low
+23,Bill inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,High
+24,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Low,High
+25,Legal problems,Ut enim ad minim veniam,Medium,Medium
+26,Bill inquiries,Ut enim ad minim veniam,Low,Medium
+27,Lost/stolen phone inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Low,Medium
+28,Lost/stolen phone inquiries,Ut enim ad minim veniam,Low,Low
+29,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Medium,Low
+30,Connectivity issues,Ut enim ad minim veniam,High,Low
+31,Legal problems,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,Medium
+32,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,High,High
+33,Connectivity issues,Lorem ipsum dolor sit amet,Low,High
+34,Lost/stolen phone inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,High
+35,Legal problems,Ut enim ad minim veniam,Medium,Low
+36,Other,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Medium
+37,Other,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,Low
+38,Connectivity issues,Ut enim ad minim veniam,Low,High
+39,Bill inquiries,consectetur adipiscing elit,High,Low
+40,Other,Lorem ipsum dolor sit amet,Medium,Medium
+41,Connectivity issues,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,High,Medium
+42,Bill inquiries,consectetur adipiscing elit,Medium,Medium
+43,Lost/stolen phone inquiries,consectetur adipiscing elit,Medium,High
+44,Bill inquiries,Ut enim ad minim veniam,Low,Medium
+45,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,Low
+46,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,Medium
+47,Bill inquiries,Excepteur sint occaecat cupidatat non proident,High,Low
+48,Lost/stolen phone inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Low
+49,Lost/stolen phone inquiries,consectetur adipiscing elit,Medium,High
+50,Bill inquiries,consectetur adipiscing elit,High,Low
+51,Connectivity issues,Excepteur sint occaecat cupidatat non proident,Low,High
+52,Connectivity issues,Lorem ipsum dolor sit amet,Medium,High
+53,Other,Excepteur sint occaecat cupidatat non proident,High,Medium
+54,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Low
+55,Connectivity issues,consectetur adipiscing elit,High,Medium
+56,Lost/stolen phone inquiries,Excepteur sint occaecat cupidatat non proident,Medium,High
+57,Connectivity issues,consectetur adipiscing elit,Medium,Medium
+58,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,Medium
+59,Other,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Medium
+60,Connectivity issues,Excepteur sint occaecat cupidatat non proident,Medium,Medium
+61,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,High
+62,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,Medium
+63,Connectivity issues,Lorem ipsum dolor sit amet,Medium,Medium
+64,Lost/stolen phone inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,High
+65,Legal problems,consectetur adipiscing elit,High,High
+66,Connectivity issues,Lorem ipsum dolor sit amet,Low,Medium
+67,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,Medium
+68,Lost/stolen phone inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Low
+69,Lost/stolen phone inquiries,Lorem ipsum dolor sit amet,Medium,Low
+70,Legal problems,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,Low
+71,Connectivity issues,Lorem ipsum dolor sit amet,High,Low
+72,Bill inquiries,Ut enim ad minim veniam,Medium,Medium
+73,Lost/stolen phone inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,High
+74,Bill inquiries,Lorem ipsum dolor sit amet,High,Medium
+75,Other,Lorem ipsum dolor sit amet,Low,High
+76,Connectivity issues,consectetur adipiscing elit,High,High
+77,Connectivity issues,Excepteur sint occaecat cupidatat non proident,Medium,Low
+78,Lost/stolen phone inquiries,Lorem ipsum dolor sit amet,Medium,Low
+79,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Low,Low
+80,Lost/stolen phone inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,High
+81,Other,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,High
+82,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Low
+83,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,High,Low
+84,Lost/stolen phone inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,Low
+85,Connectivity issues,consectetur adipiscing elit,Low,Medium
+86,Bill inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Medium
+87,Other,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,High
+88,Other,consectetur adipiscing elit,High,Medium
+89,Legal problems,Lorem ipsum dolor sit amet,High,Low
+90,Lost/stolen phone inquiries,Excepteur sint occaecat cupidatat non proident,High,High
+91,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,Low
+92,Bill inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Low
+93,Connectivity issues,Lorem ipsum dolor sit amet,High,Low
+94,Legal problems,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,High
+95,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Low,Medium
+96,Other,Excepteur sint occaecat cupidatat non proident,Low,High
+97,Lost/stolen phone inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,High
+98,Lost/stolen phone inquiries,Lorem ipsum dolor sit amet,High,High
+99,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Low,High
+100,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,Low
+101,Lost/stolen phone inquiries,Ut enim ad minim veniam,Medium,Medium
+102,Bill inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,High
+103,Connectivity issues,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,Low
+104,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Low,High
+105,Connectivity issues,Excepteur sint occaecat cupidatat non proident,Low,Medium
+106,Connectivity issues,Excepteur sint occaecat cupidatat non proident,Medium,Medium
+107,Connectivity issues,Lorem ipsum dolor sit amet,Medium,High
+108,Bill inquiries,consectetur adipiscing elit,Medium,Low
+109,Legal problems,Ut enim ad minim veniam,Low,Medium
+110,Lost/stolen phone inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,High
+111,Bill inquiries,Ut enim ad minim veniam,Low,Medium
+112,Connectivity issues,consectetur adipiscing elit,High,Low
+113,Bill inquiries,consectetur adipiscing elit,High,Low
+114,Lost/stolen phone inquiries,Lorem ipsum dolor sit amet,High,High
+115,Legal problems,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,Medium
+116,Lost/stolen phone inquiries,Excepteur sint occaecat cupidatat non proident,High,Low
+117,Connectivity issues,Ut enim ad minim veniam,Low,Low
+118,Legal problems,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,Low
+119,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Medium,Low
+120,Other,Lorem ipsum dolor sit amet,Low,Medium
+121,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Low
+122,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,Medium
+123,Legal problems,consectetur adipiscing elit,Medium,High
+124,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Medium
+125,Legal problems,Lorem ipsum dolor sit amet,High,High
+126,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,Medium
+127,Legal problems,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,High
+128,Lost/stolen phone inquiries,consectetur adipiscing elit,Medium,High
+129,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Medium
+130,Other,consectetur adipiscing elit,Low,Low
+131,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,High
+132,Lost/stolen phone inquiries,Lorem ipsum dolor sit amet,Medium,Low
+133,Bill inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,Medium
+134,Connectivity issues,Lorem ipsum dolor sit amet,Medium,Low
+135,Lost/stolen phone inquiries,consectetur adipiscing elit,Low,High
+136,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,High,Low
+137,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Medium
+138,Connectivity issues,Lorem ipsum dolor sit amet,Medium,High
+139,Bill inquiries,Ut enim ad minim veniam,High,High
+140,Lost/stolen phone inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,High
+141,Connectivity issues,Ut enim ad minim veniam,Medium,Low
+142,Connectivity issues,Lorem ipsum dolor sit amet,High,High
+143,Connectivity issues,Lorem ipsum dolor sit amet,Medium,High
+144,Lost/stolen phone inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Low
+145,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,Medium
+146,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,Low
+147,Lost/stolen phone inquiries,consectetur adipiscing elit,Low,High
+148,Lost/stolen phone inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Low
+149,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,High
+150,Lost/stolen phone inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,Low
+151,Connectivity issues,Excepteur sint occaecat cupidatat non proident,Medium,Medium
+152,Bill inquiries,Lorem ipsum dolor sit amet,Low,Low
+153,Legal problems,Lorem ipsum dolor sit amet,High,Low
+154,Other,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,Medium
+155,Legal problems,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Low,Low
+156,Other,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,High
+157,Lost/stolen phone inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Medium,Medium
+158,Legal problems,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,High,Medium
+159,Legal problems,Lorem ipsum dolor sit amet,Low,Low
+160,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,High
+161,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,High
+162,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,Low
+163,Other,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,High,Low
+164,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Low,Medium
+165,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Medium
+166,Bill inquiries,Ut enim ad minim veniam,Low,Low
+167,Connectivity issues,Ut enim ad minim veniam,Medium,High
+168,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,Medium
+169,Connectivity issues,Excepteur sint occaecat cupidatat non proident,High,Low
+170,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Low
+171,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,High,High
+172,Connectivity issues,consectetur adipiscing elit,High,Medium
+173,Connectivity issues,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,Low
+174,Bill inquiries,consectetur adipiscing elit,Medium,Medium
+175,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,Medium,Low
+176,Bill inquiries,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Low
+177,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Low,Medium
+178,Connectivity issues,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,High,Low
+179,Connectivity issues,Ut enim ad minim veniam,Medium,High
+180,Connectivity issues,consectetur adipiscing elit,High,Medium
+181,Other,Excepteur sint occaecat cupidatat non proident,Medium,High
+182,Legal problems,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Low,High
+183,Legal problems,Ut enim ad minim veniam,High,Medium
+184,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,High,Medium
+185,Connectivity issues,sunt in culpa qui officia deserunt mollit anim id est laborum,High,Low
+186,Legal problems,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,High,Medium
+187,Connectivity issues,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,Low,Low
+188,Lost/stolen phone inquiries,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,High,High
+189,Other,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur,High,Medium
+190,Bill inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,Medium,Medium
+191,Bill inquiries,Excepteur sint occaecat cupidatat non proident,Low,High
+192,Connectivity issues,Lorem ipsum dolor sit amet,High,Medium
+193,Connectivity issues,Ut enim ad minim veniam,High,High
+194,Bill inquiries,Ut enim ad minim veniam,Medium,High
+195,Lost/stolen phone inquiries,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,High,High
+196,Other,consectetur adipiscing elit,High,High
+197,Bill inquiries,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,Medium,High
+198,Other,sunt in culpa qui officia deserunt mollit anim id est laborum,Low,High
+199,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,High,High
+200,Connectivity issues,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,High,High

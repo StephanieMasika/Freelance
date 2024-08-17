@@ -1,0 +1,1001 @@
+CustomerID,DateTimeID,QuestionID,RepresentativeID,DepartmentID,MobilePlanID,LengthOfCall,LevelOfEscalation,CustomerSatisfactionLevel,QueryResolutionBalance
+1,42,179,31,3,7,155.56,First,Satisfied,295.44
+2,3,181,27,4,2,193.36,First,Not at all Satisfied,1060.69
+2,28,125,23,6,2,62.75,Second,Partly Satisfied,1132.82
+2,101,70,37,1,2,19.02,First,More than Satisfied,-307.24
+2,143,166,16,2,6,131.79,First,Partly Satisfied,1248.65
+2,159,175,5,5,2,26.49,First,Satisfied,-76.70
+2,178,93,21,7,7,161.97,First,Not at all Satisfied,935.23
+2,194,9,15,1,10,188.46,Second,Not at all Satisfied,563.33
+2,269,139,25,3,10,158.92,Manager,Not at all Satisfied,-717.52
+2,391,15,40,3,5,14.89,First,Very Satisfied,569.36
+3,3,159,24,2,9,107.09,First,Partly Satisfied,-452.28
+4,56,138,22,3,4,162.30,First,Not at all Satisfied,164.89
+4,233,133,5,5,9,178.04,Manager,Very Satisfied,464.27
+4,281,57,10,6,6,98.53,Second,Very Satisfied,356.58
+4,326,88,26,3,5,151.76,First,Partly Satisfied,1343.88
+4,360,1,33,6,1,79.04,Manager,Very Satisfied,1495.13
+5,130,175,34,3,10,100.98,First,Partly Satisfied,714.94
+5,147,3,3,2,6,48.54,First,Very Satisfied,-513.14
+5,268,184,6,7,4,145.66,First,Very Satisfied,1213.30
+6,9,154,4,3,8,206.45,First,Very Satisfied,440.84
+6,114,87,5,4,4,38.82,First,Very Satisfied,764.64
+6,261,109,33,1,5,61.45,First,Satisfied,347.59
+6,347,60,12,3,5,197.24,First,Partly Satisfied,840.48
+7,4,6,32,2,7,69.25,Second,Not at all Satisfied,-196.74
+7,123,32,11,2,3,151.81,Manager,Very Satisfied,882.24
+7,155,48,35,2,3,203.58,Manager,More than Satisfied,-545.17
+7,240,39,28,5,4,5.59,First,Very Satisfied,927.91
+7,275,70,32,1,1,123.48,Second,Satisfied,5.22
+7,341,5,17,4,8,4.70,Second,Not at all Satisfied,-183.99
+7,346,66,10,4,2,129.28,First,Satisfied,-397.45
+7,350,47,16,1,3,131.35,Second,Partly Satisfied,-298.41
+8,226,166,7,5,8,199.14,Manager,More than Satisfied,-315.95
+8,321,116,32,1,3,139.39,Manager,Very Satisfied,279.25
+9,317,116,31,3,4,201.94,Manager,Partly Satisfied,834.21
+10,218,90,28,3,9,35.81,Second,Not at all Satisfied,302.72
+10,247,24,23,4,10,84.65,First,Satisfied,406.63
+10,296,46,25,2,7,87.27,Second,Partly Satisfied,1233.23
+10,301,87,18,2,10,126.85,Second,Partly Satisfied,-320.61
+10,332,159,6,2,6,151.73,Second,Very Satisfied,-76.05
+11,50,145,21,7,4,142.35,First,More than Satisfied,63.36
+11,137,6,24,6,8,111.70,Manager,Partly Satisfied,1008.32
+11,247,120,28,4,10,168.17,First,More than Satisfied,-275.60
+11,305,129,30,6,5,15.01,Manager,Partly Satisfied,899.07
+12,80,25,24,5,1,67.79,First,More than Satisfied,1235.03
+12,82,40,9,2,3,176.10,First,More than Satisfied,1626.70
+12,111,64,26,1,7,191.79,First,More than Satisfied,-366.66
+12,223,106,36,1,10,130.59,Second,Partly Satisfied,-329.10
+12,243,143,10,3,5,82.26,First,Partly Satisfied,445.66
+13,138,128,6,3,1,42.04,Second,Not at all Satisfied,-667.07
+13,281,71,19,4,7,74.66,Second,Not at all Satisfied,-506.21
+14,2,109,10,1,4,142.73,First,Not at all Satisfied,202.54
+14,45,16,28,3,10,186.20,First,Not at all Satisfied,696.57
+14,112,33,16,3,6,182.42,First,Not at all Satisfied,1428.34
+14,113,116,26,1,5,153.38,Second,Not at all Satisfied,-235.14
+14,125,139,19,6,10,132.54,Second,More than Satisfied,-560.75
+14,164,28,17,7,10,112.72,Manager,Partly Satisfied,-492.79
+14,358,160,24,3,3,127.92,First,More than Satisfied,749.81
+14,380,116,33,1,4,13.51,Second,More than Satisfied,57.63
+14,392,50,34,5,10,57.88,First,Partly Satisfied,1033.15
+15,27,111,5,5,2,178.60,Second,Not at all Satisfied,-193.26
+16,4,169,36,4,3,12.40,First,Very Satisfied,-78.52
+16,12,136,20,6,9,115.55,First,More than Satisfied,1026.73
+16,51,110,40,1,1,164.53,Second,More than Satisfied,277.32
+16,169,185,25,4,9,78.54,Second,Partly Satisfied,453.18
+16,174,82,11,6,1,206.32,First,Not at all Satisfied,-178.64
+16,219,108,22,2,1,197.94,Second,Satisfied,1096.80
+16,312,74,1,1,8,92.94,First,Satisfied,1421.94
+17,65,136,3,5,7,112.97,First,Satisfied,298.48
+17,97,149,31,6,8,25.09,Second,Very Satisfied,-564.32
+17,210,149,29,3,9,97.38,First,Satisfied,-80.38
+17,263,150,40,1,7,141.86,First,Partly Satisfied,1621.31
+17,345,35,29,6,7,120.84,First,Partly Satisfied,1593.42
+17,363,65,16,3,2,123.65,Second,More than Satisfied,1753.45
+18,32,170,17,6,10,18.23,Second,Partly Satisfied,-672.10
+18,41,167,20,5,4,79.12,First,Satisfied,994.89
+18,45,52,5,1,1,201.69,Manager,Partly Satisfied,638.94
+18,80,35,15,4,3,42.61,Second,Not at all Satisfied,-529.84
+18,182,166,14,6,7,62.77,Second,Not at all Satisfied,1775.22
+18,199,50,1,6,9,123.49,First,Not at all Satisfied,-138.38
+19,59,26,22,3,8,138.55,Manager,Very Satisfied,1026.20
+19,175,32,23,3,5,136.54,First,Satisfied,-214.15
+19,189,34,24,5,4,209.30,First,Very Satisfied,-431.19
+19,269,141,28,7,4,66.53,First,Satisfied,1667.95
+21,83,125,34,4,10,185.40,First,More than Satisfied,-235.42
+21,109,166,6,5,9,62.93,Manager,Not at all Satisfied,524.17
+22,13,2,39,6,3,140.84,Manager,Very Satisfied,-774.24
+22,38,138,24,5,2,171.41,First,More than Satisfied,242.73
+22,84,177,8,4,4,180.03,First,Satisfied,1677.79
+22,183,134,20,3,2,64.65,First,Very Satisfied,1166.21
+23,17,36,36,2,6,116.45,First,Partly Satisfied,510.22
+23,32,37,32,5,8,169.98,First,Satisfied,88.53
+23,91,25,26,4,4,50.59,First,Partly Satisfied,525.21
+23,119,41,5,7,10,21.45,Manager,More than Satisfied,695.58
+23,229,73,15,4,10,205.39,First,Not at all Satisfied,156.13
+23,229,155,24,6,1,32.00,Manager,Satisfied,1255.55
+23,234,132,35,3,6,17.62,First,Very Satisfied,1493.26
+23,237,136,9,7,1,55.06,Second,More than Satisfied,-241.03
+23,333,133,24,2,10,78.69,First,Satisfied,1192.93
+24,95,19,18,7,10,126.69,Second,More than Satisfied,1509.51
+24,109,28,12,4,1,30.29,Second,More than Satisfied,1257.51
+24,281,15,35,2,7,139.58,First,Satisfied,777.26
+25,7,159,29,2,4,107.76,Manager,Satisfied,730.56
+25,273,16,33,1,8,76.83,Manager,Not at all Satisfied,1432.82
+25,285,109,26,2,5,113.09,Manager,Satisfied,1729.28
+25,343,107,13,3,9,115.60,First,Not at all Satisfied,-714.65
+25,368,99,25,4,9,28.66,Second,Satisfied,1520.32
+25,390,144,19,1,5,11.30,First,Satisfied,1410.16
+26,44,125,39,7,2,58.42,Second,More than Satisfied,921.73
+26,93,155,26,6,7,54.98,Manager,Very Satisfied,760.27
+26,151,128,25,2,5,57.05,First,Partly Satisfied,-313.18
+26,242,164,22,5,10,92.27,Manager,Partly Satisfied,-796.98
+26,255,102,40,4,4,37.14,First,Not at all Satisfied,1440.61
+26,343,178,27,7,3,171.02,First,More than Satisfied,481.68
+26,372,76,7,7,2,105.29,Manager,Partly Satisfied,-787.67
+26,373,163,29,5,3,208.89,Second,Satisfied,1154.52
+27,124,39,26,3,9,189.30,Manager,Satisfied,406.67
+27,307,30,20,1,5,14.41,Manager,Partly Satisfied,-640.00
+27,360,157,29,7,7,105.62,First,Not at all Satisfied,1264.07
+27,381,17,32,2,2,161.71,First,Partly Satisfied,1232.16
+27,398,157,12,2,6,204.75,First,Very Satisfied,-676.26
+28,64,169,4,3,7,102.25,Second,Satisfied,63.52
+28,103,60,3,1,10,71.89,Second,Satisfied,21.78
+28,216,73,37,7,3,78.38,First,Satisfied,541.44
+28,360,71,4,7,6,24.71,Manager,Satisfied,162.53
+28,381,142,34,3,10,177.90,First,Satisfied,977.53
+28,393,8,13,1,6,3.64,First,Partly Satisfied,-764.76
+29,191,192,12,2,2,118.85,Second,Not at all Satisfied,-236.42
+29,196,163,31,3,6,174.55,Second,Partly Satisfied,104.80
+29,261,6,6,1,1,34.90,First,More than Satisfied,1706.39
+29,317,21,30,3,1,147.77,First,Satisfied,-19.04
+30,23,52,39,4,10,180.02,Second,More than Satisfied,-328.73
+30,61,4,37,5,7,86.22,First,More than Satisfied,1317.79
+30,223,144,25,6,3,192.37,Second,More than Satisfied,204.18
+30,229,179,4,5,4,31.25,First,Satisfied,1358.41
+30,266,35,36,6,1,204.46,Second,Very Satisfied,575.98
+30,319,197,25,4,9,144.84,Second,Very Satisfied,-672.81
+31,11,27,20,7,5,192.25,Manager,More than Satisfied,500.69
+31,39,164,20,3,2,164.06,First,Very Satisfied,-218.87
+31,46,7,24,2,3,111.04,Manager,Partly Satisfied,-744.15
+31,142,145,2,4,1,57.30,Second,Satisfied,777.16
+31,151,66,9,6,5,43.22,First,Very Satisfied,344.22
+31,177,103,27,4,2,75.60,Second,Not at all Satisfied,519.28
+31,396,104,35,2,3,132.80,Manager,Very Satisfied,-411.86
+32,20,124,14,2,8,85.61,Second,Satisfied,128.65
+32,67,154,30,2,1,200.39,Second,Partly Satisfied,-429.99
+32,152,12,27,3,10,135.82,Second,Not at all Satisfied,380.58
+32,329,16,34,1,4,104.60,First,Partly Satisfied,539.50
+32,356,182,6,5,8,155.22,Manager,Satisfied,1589.65
+33,342,167,4,1,4,170.49,First,Satisfied,1481.04
+33,349,104,15,3,8,76.42,First,Satisfied,457.24
+34,120,182,17,2,10,64.15,Manager,Very Satisfied,1332.32
+34,205,64,18,3,2,147.20,Second,Satisfied,455.75
+34,215,113,14,2,6,89.80,First,Satisfied,106.07
+34,338,61,32,2,6,166.56,Manager,Not at all Satisfied,-71.92
+34,382,190,37,5,6,74.84,First,Satisfied,536.13
+35,2,34,31,3,8,17.07,Second,Satisfied,726.28
+35,2,118,10,4,10,108.64,Second,Satisfied,1480.33
+35,6,180,37,5,9,167.13,Second,More than Satisfied,233.52
+35,131,147,33,4,5,145.77,Second,Satisfied,439.71
+35,192,163,9,2,6,201.34,Second,Satisfied,497.56
+35,244,6,3,1,4,131.09,Second,Very Satisfied,1167.43
+35,347,118,4,4,6,92.05,First,Not at all Satisfied,-78.60
+36,59,15,17,4,4,137.15,Manager,Partly Satisfied,-451.98
+36,283,154,16,6,9,18.16,First,Partly Satisfied,207.43
+36,289,90,18,2,10,75.90,First,Not at all Satisfied,516.65
+36,289,135,38,5,6,176.67,Manager,Partly Satisfied,87.36
+36,300,200,19,2,4,169.20,Second,More than Satisfied,-8.22
+36,328,117,32,5,5,27.04,Manager,More than Satisfied,339.86
+36,347,47,40,5,7,115.92,First,Not at all Satisfied,554.83
+37,27,2,14,3,8,62.12,First,Very Satisfied,-636.33
+37,262,77,33,2,7,50.95,Manager,Partly Satisfied,-211.43
+38,45,171,35,2,4,23.34,First,Very Satisfied,-552.53
+38,255,190,36,3,9,182.28,First,Partly Satisfied,1326.62
+38,265,101,22,3,5,53.59,First,Not at all Satisfied,-490.51
+39,53,115,13,6,1,148.80,First,More than Satisfied,-196.16
+39,104,17,16,4,7,168.35,Manager,Satisfied,1169.99
+39,127,165,3,2,8,14.27,Second,Satisfied,-455.22
+39,176,182,10,6,2,143.21,Manager,Very Satisfied,1176.66
+39,201,55,32,1,2,195.28,First,Very Satisfied,-592.10
+39,398,166,26,1,10,114.66,First,Not at all Satisfied,915.45
+40,104,156,37,3,10,91.03,Second,More than Satisfied,1587.52
+40,146,75,31,5,5,198.37,First,More than Satisfied,639.69
+40,165,144,39,4,8,9.61,Second,Not at all Satisfied,-403.68
+40,341,173,21,2,6,136.83,Manager,More than Satisfied,1472.86
+40,382,57,37,7,9,23.40,First,Satisfied,-20.99
+41,141,187,27,5,2,178.44,Second,Partly Satisfied,100.91
+41,148,17,32,1,8,181.31,Manager,Very Satisfied,407.53
+41,242,164,40,7,6,69.42,First,Very Satisfied,-427.09
+42,304,199,13,3,2,50.58,Second,More than Satisfied,736.95
+42,310,70,2,6,6,9.60,First,Partly Satisfied,433.52
+42,341,84,38,4,1,112.97,Manager,Partly Satisfied,514.18
+42,377,174,30,6,6,35.69,Second,Partly Satisfied,1386.91
+43,125,64,33,4,10,75.76,First,Not at all Satisfied,1092.73
+43,139,141,4,1,2,60.09,First,Partly Satisfied,1348.40
+43,162,63,23,2,4,151.72,Manager,Not at all Satisfied,-672.83
+43,167,9,14,4,9,124.95,Second,Not at all Satisfied,532.21
+43,265,72,25,4,4,194.45,First,Not at all Satisfied,128.09
+43,296,179,40,4,8,29.83,Second,Partly Satisfied,949.23
+43,312,118,9,5,3,174.57,First,Not at all Satisfied,-178.65
+43,338,152,34,5,9,209.44,Second,More than Satisfied,-104.10
+44,105,181,38,2,2,130.32,Manager,Not at all Satisfied,1042.59
+44,187,163,36,4,9,169.39,Second,Not at all Satisfied,1644.31
+44,193,176,26,4,10,104.38,Second,More than Satisfied,-81.72
+44,243,24,2,1,9,53.49,Second,Very Satisfied,687.99
+45,32,3,11,3,8,147.57,Manager,Satisfied,492.61
+45,90,71,27,5,5,173.10,Second,Satisfied,1576.62
+45,329,100,16,4,9,81.39,First,Not at all Satisfied,232.86
+45,391,14,5,7,6,182.49,Second,Very Satisfied,597.47
+45,391,50,3,4,3,130.17,First,More than Satisfied,787.36
+46,34,4,13,7,2,40.49,First,Partly Satisfied,1797.78
+46,90,155,27,3,6,15.67,First,Partly Satisfied,-401.84
+46,258,11,23,6,4,150.51,First,Partly Satisfied,989.41
+46,268,30,5,5,7,32.99,First,Very Satisfied,99.65
+47,53,88,18,2,9,55.60,First,Satisfied,1302.76
+47,75,53,11,1,10,149.02,First,Not at all Satisfied,-709.95
+47,133,112,27,2,8,84.23,First,Not at all Satisfied,1649.14
+47,167,80,20,3,9,47.06,First,More than Satisfied,1539.24
+47,199,108,5,6,1,67.14,Manager,Satisfied,1328.14
+47,258,95,29,3,3,152.28,Second,Satisfied,349.33
+47,265,102,17,3,9,181.40,First,Very Satisfied,-119.02
+47,395,35,9,2,6,22.90,First,Partly Satisfied,714.74
+48,69,2,27,5,5,147.56,First,Not at all Satisfied,1009.20
+48,94,89,5,2,10,182.10,Manager,Satisfied,226.29
+48,110,138,21,7,3,91.61,Manager,More than Satisfied,409.96
+48,253,138,19,1,8,75.06,First,Not at all Satisfied,900.41
+48,279,136,37,3,3,99.03,Second,Satisfied,-678.28
+49,12,190,2,2,7,142.41,First,Not at all Satisfied,1483.27
+49,111,166,8,1,4,132.42,First,More than Satisfied,930.37
+49,283,26,21,2,6,175.07,First,Satisfied,463.41
+49,313,137,2,7,6,29.35,Second,Partly Satisfied,210.72
+50,19,179,31,7,10,94.55,First,Partly Satisfied,413.34
+50,68,88,33,7,8,96.93,First,Satisfied,492.34
+50,78,141,12,4,4,131.88,First,Partly Satisfied,-377.17
+50,102,177,40,3,10,192.16,Second,Very Satisfied,-705.24
+50,219,55,4,6,10,88.60,First,Satisfied,-77.81
+50,326,10,11,4,1,126.79,First,Not at all Satisfied,1623.66
+50,377,106,38,5,9,141.02,Second,Satisfied,1501.89
+51,17,159,2,1,8,13.86,First,More than Satisfied,729.57
+51,54,45,40,2,10,96.04,First,Not at all Satisfied,728.87
+51,108,39,7,6,5,52.04,Manager,More than Satisfied,-666.32
+51,183,74,1,5,5,41.82,First,Not at all Satisfied,1494.59
+51,193,169,30,7,2,63.26,Manager,Satisfied,1017.39
+51,297,55,3,1,6,117.95,Second,Very Satisfied,1257.76
+52,1,54,5,4,9,83.98,Manager,Very Satisfied,528.40
+52,162,24,9,7,2,108.28,Manager,More than Satisfied,110.83
+52,257,91,1,6,5,98.06,First,More than Satisfied,-34.29
+53,17,51,15,3,8,72.69,First,More than Satisfied,1783.78
+53,37,101,36,5,9,128.28,Second,Satisfied,1014.18
+53,41,39,39,5,4,80.84,Manager,More than Satisfied,996.94
+53,67,173,15,5,5,145.02,First,Very Satisfied,478.43
+53,126,170,34,1,6,181.76,Manager,Satisfied,701.52
+53,152,195,31,2,5,34.50,Second,More than Satisfied,-609.03
+53,163,48,23,7,6,59.93,First,Satisfied,1584.60
+53,216,75,32,7,4,98.52,Manager,Partly Satisfied,1437.73
+53,273,198,40,6,3,205.65,Second,Not at all Satisfied,-405.64
+53,336,53,15,3,4,134.49,Second,Not at all Satisfied,250.17
+53,394,8,15,5,1,120.85,Manager,More than Satisfied,-407.26
+54,35,127,5,1,5,173.92,Manager,Very Satisfied,1743.00
+54,72,181,33,5,5,106.40,First,Satisfied,989.87
+54,157,69,7,2,8,23.88,Manager,Partly Satisfied,-252.87
+54,172,136,37,5,1,140.64,Manager,Not at all Satisfied,871.14
+54,211,85,14,7,1,105.27,First,Partly Satisfied,1525.96
+54,271,121,36,2,10,117.79,First,Not at all Satisfied,1624.14
+55,2,166,34,7,5,183.51,Second,More than Satisfied,-390.39
+55,13,76,4,6,10,145.41,First,More than Satisfied,-63.13
+55,54,143,32,7,8,82.86,First,More than Satisfied,-267.96
+55,67,81,30,1,6,133.86,Second,Not at all Satisfied,284.04
+55,192,73,12,6,1,70.93,Second,More than Satisfied,-350.09
+55,222,103,26,1,6,163.04,First,Very Satisfied,1269.10
+55,269,122,5,1,3,195.88,First,Satisfied,-90.49
+55,285,24,14,7,1,42.88,First,Partly Satisfied,654.63
+55,384,93,21,7,5,10.33,Second,Satisfied,709.54
+56,101,117,38,1,6,154.49,Second,Not at all Satisfied,288.79
+56,207,140,3,7,10,206.30,First,Very Satisfied,668.91
+56,280,140,11,5,8,136.88,Manager,Not at all Satisfied,1559.78
+56,298,198,18,5,2,101.93,First,Very Satisfied,-303.08
+57,129,151,19,6,1,136.12,Second,Partly Satisfied,-719.67
+57,192,111,15,3,10,131.34,Second,Not at all Satisfied,1066.99
+57,198,9,11,4,8,76.60,Second,Satisfied,-412.21
+57,250,178,39,2,7,99.64,First,Partly Satisfied,377.02
+57,399,56,27,5,6,124.59,First,Satisfied,911.38
+58,85,7,37,5,3,41.66,Manager,Partly Satisfied,1627.92
+58,110,95,20,2,8,139.76,First,More than Satisfied,1703.02
+58,211,18,7,6,2,107.66,Second,Satisfied,1203.35
+58,288,194,22,5,2,96.78,Manager,Not at all Satisfied,960.55
+59,128,38,23,3,5,183.79,Second,Partly Satisfied,-173.88
+59,170,114,7,6,3,71.50,First,Not at all Satisfied,1140.84
+59,313,110,8,7,10,172.09,Manager,Very Satisfied,1582.66
+59,399,175,16,6,5,192.27,Second,Not at all Satisfied,57.74
+60,146,145,28,1,8,174.24,Second,Not at all Satisfied,393.47
+60,222,146,10,3,4,108.56,Second,Satisfied,144.56
+60,337,3,25,2,2,89.65,Second,Very Satisfied,-464.92
+60,345,32,29,7,3,96.29,Manager,More than Satisfied,1313.10
+60,366,87,26,7,1,92.42,Second,Partly Satisfied,1428.91
+60,398,122,11,3,8,129.97,First,Partly Satisfied,71.98
+61,46,28,28,7,5,98.53,Manager,Very Satisfied,11.41
+61,157,185,21,7,2,90.05,Second,Very Satisfied,932.34
+61,201,77,14,5,1,101.92,First,Satisfied,240.43
+61,232,112,9,4,2,117.13,Manager,Satisfied,-725.81
+61,305,132,39,1,8,154.03,First,More than Satisfied,-31.44
+61,347,52,33,1,7,42.68,First,Very Satisfied,969.32
+61,385,199,3,3,8,49.40,Manager,More than Satisfied,-259.65
+62,90,171,34,4,5,68.22,First,Partly Satisfied,-544.21
+62,100,172,18,5,3,3.88,First,Satisfied,1507.37
+62,108,119,30,7,7,71.25,Second,Partly Satisfied,1666.67
+62,157,153,29,5,10,142.55,First,Satisfied,1723.56
+62,200,31,5,3,3,93.09,Second,Very Satisfied,900.58
+62,312,103,19,1,1,73.84,First,Partly Satisfied,207.19
+62,331,136,26,2,4,22.20,First,Partly Satisfied,809.82
+62,371,147,27,1,3,32.27,Second,More than Satisfied,53.53
+63,159,84,15,1,6,182.34,Second,Not at all Satisfied,477.40
+63,247,176,18,3,6,75.59,Second,More than Satisfied,-464.95
+63,346,163,2,4,10,162.64,First,Satisfied,1486.72
+64,103,23,39,5,2,94.27,First,More than Satisfied,-5.58
+64,147,192,27,7,6,185.26,Second,Partly Satisfied,-38.65
+64,246,47,22,5,7,195.35,Manager,Satisfied,109.95
+64,255,104,1,2,3,133.12,First,More than Satisfied,1485.66
+64,264,66,18,4,1,40.53,Second,Partly Satisfied,454.02
+64,346,11,30,3,3,10.37,First,Satisfied,667.69
+64,353,183,35,3,1,141.61,First,Satisfied,668.39
+65,18,62,13,1,4,88.93,First,Not at all Satisfied,-747.17
+65,186,126,18,3,8,84.02,Second,Not at all Satisfied,1491.87
+65,214,56,24,7,4,165.00,Second,Partly Satisfied,-119.47
+65,276,27,14,5,10,181.34,Manager,Satisfied,1695.87
+65,376,198,29,7,2,24.44,Manager,Not at all Satisfied,226.08
+66,16,44,15,1,1,190.31,Manager,Partly Satisfied,374.08
+66,150,5,14,2,1,4.98,Second,Partly Satisfied,906.76
+66,198,67,31,7,8,43.81,First,More than Satisfied,-273.57
+66,387,100,9,5,3,106.92,Second,Satisfied,1587.73
+66,389,124,27,7,4,31.60,Second,Very Satisfied,1108.51
+67,237,19,33,7,2,51.12,First,Partly Satisfied,-455.64
+67,397,152,5,5,1,160.89,Second,Very Satisfied,827.73
+68,27,18,36,3,8,30.75,First,Partly Satisfied,1057.62
+68,78,94,28,4,5,173.86,Second,Not at all Satisfied,894.04
+68,213,126,37,6,9,6.49,First,Very Satisfied,1007.64
+68,214,146,19,5,7,75.95,Second,Satisfied,1362.98
+68,335,144,10,1,4,171.68,Manager,Satisfied,1310.50
+69,141,80,39,3,5,73.36,First,Satisfied,785.19
+69,167,63,28,7,4,74.68,Manager,Very Satisfied,1560.11
+69,195,10,6,7,8,196.27,Second,Satisfied,506.97
+69,221,168,40,1,8,161.14,First,Satisfied,-674.79
+69,272,69,19,5,5,34.31,Second,More than Satisfied,1500.22
+69,380,61,25,7,4,189.98,First,More than Satisfied,78.47
+69,387,130,19,4,3,91.44,Second,Satisfied,960.94
+70,65,26,39,2,6,18.85,First,Not at all Satisfied,582.88
+70,66,46,32,1,5,124.57,Manager,Satisfied,1118.82
+70,99,110,25,4,10,145.72,First,Not at all Satisfied,840.31
+70,162,120,15,5,4,184.15,First,Very Satisfied,986.73
+70,255,171,13,7,3,75.38,Manager,More than Satisfied,263.81
+70,274,67,29,7,1,126.55,First,Very Satisfied,-207.46
+70,361,182,2,7,6,31.07,First,Partly Satisfied,-203.59
+71,41,197,11,4,9,26.90,Second,Very Satisfied,448.62
+71,170,135,6,6,4,135.76,First,Satisfied,1716.23
+71,254,132,19,7,10,82.70,First,Not at all Satisfied,1513.56
+71,308,34,35,4,8,206.15,First,Satisfied,-542.28
+72,47,119,1,3,7,46.69,Second,Satisfied,774.70
+72,256,133,10,5,10,40.03,Manager,Satisfied,-80.74
+73,17,44,31,2,6,42.85,First,Satisfied,1050.74
+73,144,33,40,2,6,174.91,Manager,Partly Satisfied,259.53
+73,166,116,35,5,1,72.36,First,Partly Satisfied,1605.53
+73,220,40,20,2,3,160.51,First,More than Satisfied,1632.17
+73,338,45,38,4,1,175.25,First,Very Satisfied,848.75
+74,68,70,17,7,4,49.51,First,Not at all Satisfied,1412.84
+74,182,33,31,3,3,42.34,Manager,Not at all Satisfied,1206.65
+74,223,199,3,4,10,114.16,First,Not at all Satisfied,-761.70
+74,282,48,3,3,6,182.60,First,Satisfied,528.75
+74,347,119,4,6,6,113.76,First,Not at all Satisfied,568.40
+74,365,134,20,4,2,164.77,Second,Partly Satisfied,1087.57
+75,125,21,12,5,4,39.65,Manager,More than Satisfied,-229.97
+75,144,141,36,2,4,150.42,First,Satisfied,-187.35
+75,184,114,35,3,5,140.56,Second,Very Satisfied,453.80
+75,224,112,35,6,9,56.18,Second,Very Satisfied,51.67
+75,271,97,33,1,9,65.78,First,Partly Satisfied,343.17
+76,83,165,13,7,2,201.45,Second,Satisfied,351.72
+76,128,94,11,3,1,47.29,First,Satisfied,1078.72
+76,180,135,36,3,6,80.81,Manager,Satisfied,1094.69
+76,276,158,30,3,2,67.14,Second,Very Satisfied,1394.53
+76,360,5,24,5,4,205.02,Manager,More than Satisfied,-302.54
+76,373,180,19,6,1,132.13,Manager,Partly Satisfied,1033.38
+76,381,119,26,3,6,135.20,First,Not at all Satisfied,101.29
+77,94,141,40,5,10,128.92,Second,More than Satisfied,1252.09
+77,255,56,30,6,6,95.02,Second,Satisfied,-129.31
+77,294,8,6,3,1,10.34,First,Very Satisfied,1193.21
+77,375,128,7,7,10,157.81,Second,More than Satisfied,1252.09
+77,377,170,16,2,5,75.11,First,Satisfied,1729.40
+78,23,143,19,1,5,89.67,First,Very Satisfied,830.23
+78,54,18,6,5,8,182.36,First,Partly Satisfied,1106.74
+78,60,67,17,7,6,5.74,Second,Partly Satisfied,1179.87
+78,76,51,18,7,2,197.93,Second,Satisfied,1188.00
+78,320,24,9,5,10,149.78,Second,Very Satisfied,273.62
+78,321,185,8,3,10,179.77,First,Satisfied,970.60
+79,12,123,36,4,8,169.00,First,Satisfied,-489.15
+79,259,158,23,3,10,160.89,First,Not at all Satisfied,1325.21
+79,319,126,22,3,8,27.83,First,More than Satisfied,1551.21
+79,324,18,38,5,1,138.83,First,More than Satisfied,1161.02
+79,326,180,27,4,10,75.86,First,More than Satisfied,873.30
+79,348,79,34,4,10,48.68,First,Satisfied,1601.15
+80,46,85,22,7,10,145.32,First,Satisfied,-29.42
+80,93,150,7,4,3,91.52,Second,Partly Satisfied,1476.04
+80,146,62,39,1,5,140.86,First,Satisfied,-761.01
+80,342,26,31,2,5,66.27,First,Not at all Satisfied,1638.78
+81,117,91,22,6,7,67.43,First,Satisfied,1310.84
+81,320,164,15,7,4,172.78,First,Partly Satisfied,1503.46
+82,108,26,17,4,1,35.51,First,More than Satisfied,-108.46
+82,141,183,15,5,5,110.51,First,Very Satisfied,283.86
+82,188,90,17,6,5,133.15,Manager,Partly Satisfied,1586.27
+82,397,65,6,4,6,31.08,Second,More than Satisfied,46.45
+83,29,152,33,7,1,34.91,Second,More than Satisfied,1213.68
+83,69,98,1,6,4,65.91,Manager,Very Satisfied,-647.15
+83,132,143,13,4,7,88.63,Second,Not at all Satisfied,-566.72
+83,156,3,13,4,9,98.10,First,Partly Satisfied,-689.59
+83,179,101,34,1,9,125.95,First,Very Satisfied,1360.48
+83,283,101,6,3,5,208.72,First,Not at all Satisfied,1492.94
+83,295,76,28,2,8,197.77,Second,Not at all Satisfied,-319.44
+83,353,153,11,1,5,130.43,Second,More than Satisfied,1707.92
+83,400,77,23,7,9,18.28,First,Partly Satisfied,-449.76
+84,76,37,27,6,8,151.54,Second,More than Satisfied,661.63
+84,128,8,2,2,2,166.10,Manager,Not at all Satisfied,1532.61
+84,234,91,6,5,7,206.52,First,Not at all Satisfied,501.26
+84,386,32,11,2,2,83.77,Manager,Partly Satisfied,1741.60
+85,69,59,16,4,3,41.94,Second,Satisfied,-71.63
+85,96,66,24,6,10,50.54,Second,More than Satisfied,1103.11
+85,106,9,18,5,4,146.36,First,Satisfied,1220.56
+85,118,105,25,6,7,151.86,First,Partly Satisfied,619.67
+85,329,103,27,6,1,195.80,First,Satisfied,-154.38
+85,332,26,24,5,6,197.04,Second,Very Satisfied,1175.35
+86,46,70,19,4,2,169.31,First,Satisfied,-114.27
+86,268,158,25,1,7,179.03,Manager,Satisfied,1702.11
+86,310,156,10,6,1,182.24,Second,More than Satisfied,164.67
+86,378,136,8,3,9,129.82,First,Satisfied,525.55
+87,12,163,11,1,7,130.50,First,Very Satisfied,-485.89
+87,137,150,10,2,7,157.48,Manager,More than Satisfied,1325.70
+87,184,183,4,6,2,180.11,First,Very Satisfied,-311.92
+87,290,73,5,5,2,155.28,Second,Very Satisfied,-93.66
+87,331,16,21,4,3,188.68,Second,Not at all Satisfied,68.30
+87,362,1,36,4,3,199.85,First,Partly Satisfied,151.00
+88,18,174,16,1,4,101.40,Manager,Partly Satisfied,76.02
+88,55,115,22,6,7,174.74,First,Partly Satisfied,-493.75
+88,137,112,23,4,3,64.19,Second,More than Satisfied,83.24
+88,313,110,36,5,2,132.88,Second,Not at all Satisfied,-133.30
+88,336,173,35,2,6,155.08,Manager,Satisfied,-683.91
+89,19,168,25,6,9,152.73,First,Partly Satisfied,-792.38
+89,114,196,25,1,8,162.64,Second,Partly Satisfied,-737.97
+89,136,129,3,7,1,186.80,First,Partly Satisfied,575.51
+89,242,116,1,7,9,20.95,First,More than Satisfied,1415.20
+89,300,106,6,4,5,137.50,Second,Very Satisfied,-246.82
+89,339,39,37,5,1,158.53,Second,More than Satisfied,1479.46
+90,7,173,1,3,5,37.05,First,Satisfied,632.96
+90,61,4,19,1,2,38.84,Second,Very Satisfied,1673.98
+90,106,52,8,3,5,147.72,Manager,Very Satisfied,581.70
+90,227,183,12,7,2,187.07,Second,Not at all Satisfied,1500.62
+91,1,100,1,3,2,207.10,First,Satisfied,179.01
+91,11,59,30,6,4,61.83,Second,Partly Satisfied,1653.47
+91,63,35,5,4,10,123.11,Second,Very Satisfied,-552.94
+91,206,115,30,7,2,170.67,First,More than Satisfied,-619.25
+91,250,189,28,2,7,137.75,Manager,Satisfied,502.95
+91,280,164,33,5,8,19.87,First,Partly Satisfied,564.90
+92,6,162,20,3,9,63.97,First,More than Satisfied,418.64
+92,124,29,25,5,3,42.74,Second,Partly Satisfied,-411.90
+92,177,166,10,5,6,104.68,First,More than Satisfied,-566.45
+92,247,164,8,7,9,127.45,Manager,Satisfied,900.01
+92,276,194,1,6,1,126.11,Second,Not at all Satisfied,-321.63
+92,303,175,16,6,9,48.24,First,Not at all Satisfied,1574.82
+93,69,87,5,4,3,79.08,Second,Not at all Satisfied,1679.16
+93,186,74,16,1,4,105.51,First,Satisfied,1579.09
+93,198,137,26,1,5,10.03,Manager,Satisfied,1523.42
+93,205,119,36,3,9,38.83,First,Partly Satisfied,-663.58
+93,304,41,29,7,3,51.92,Second,Very Satisfied,-119.53
+93,346,67,3,2,1,109.71,First,Not at all Satisfied,183.91
+93,354,154,18,3,8,144.18,First,More than Satisfied,252.91
+93,382,162,24,4,8,110.70,First,More than Satisfied,-138.13
+93,383,104,6,6,7,201.56,First,Satisfied,155.31
+94,78,181,25,2,2,75.74,First,Satisfied,-42.38
+94,139,72,30,4,3,107.97,Manager,Partly Satisfied,119.61
+94,294,15,22,3,6,62.61,First,Satisfied,219.49
+94,323,186,19,6,6,193.23,First,Partly Satisfied,1259.47
+94,383,136,40,4,5,207.71,First,Not at all Satisfied,1495.15
+95,54,128,14,5,2,65.19,First,More than Satisfied,1248.74
+95,77,105,3,1,10,198.52,Manager,More than Satisfied,-64.29
+95,82,135,17,4,5,147.39,Second,More than Satisfied,-245.14
+95,203,159,25,1,7,87.23,Manager,More than Satisfied,1388.86
+95,311,166,34,6,3,182.39,First,More than Satisfied,1655.97
+96,42,185,32,2,5,41.73,First,Very Satisfied,-710.51
+96,105,196,3,3,8,155.37,First,Partly Satisfied,1154.80
+96,219,71,15,5,7,132.23,First,Partly Satisfied,-378.03
+96,249,195,15,4,7,22.71,Second,More than Satisfied,-583.44
+96,250,188,8,7,5,100.90,First,More than Satisfied,1319.00
+96,256,158,14,7,2,173.82,Manager,Not at all Satisfied,518.52
+96,304,188,23,6,10,49.23,First,Very Satisfied,-261.64
+97,80,190,9,7,6,159.17,Second,More than Satisfied,451.36
+97,154,66,20,3,9,134.47,First,Satisfied,1744.45
+97,272,158,2,4,1,101.57,First,Satisfied,-633.33
+97,318,168,25,2,5,79.07,Manager,Not at all Satisfied,810.03
+98,85,10,14,1,5,122.52,Second,Not at all Satisfied,148.61
+99,86,48,10,5,5,95.27,First,Partly Satisfied,958.83
+99,199,133,22,7,6,111.75,First,More than Satisfied,519.27
+99,205,191,7,7,4,184.33,Second,Not at all Satisfied,-529.03
+100,91,28,36,7,4,65.50,First,Very Satisfied,-89.02
+100,117,19,30,7,10,93.12,Second,More than Satisfied,900.96
+101,78,51,31,7,1,138.28,Manager,More than Satisfied,1483.78
+101,87,175,14,3,5,171.80,Second,Very Satisfied,1049.63
+101,155,7,2,7,2,199.13,Second,Partly Satisfied,-462.51
+101,242,29,11,3,5,150.33,Manager,Satisfied,539.03
+102,1,182,22,7,9,54.33,First,More than Satisfied,861.15
+102,132,109,8,6,9,208.05,Second,Not at all Satisfied,-397.20
+102,162,23,27,6,8,100.81,Manager,Satisfied,-151.04
+102,212,65,15,3,6,138.80,Manager,Very Satisfied,1134.31
+102,235,110,6,5,6,150.96,Manager,Partly Satisfied,1227.13
+102,349,112,14,3,6,192.71,Second,Partly Satisfied,452.29
+103,89,140,2,6,2,17.17,First,More than Satisfied,-291.65
+103,157,19,8,4,10,68.65,First,Very Satisfied,1462.15
+103,165,72,40,6,1,165.59,First,Satisfied,869.18
+103,180,158,20,5,5,137.66,Second,Partly Satisfied,-441.36
+103,338,152,28,1,1,7.58,First,Satisfied,1383.73
+104,126,120,2,7,6,179.81,Second,Not at all Satisfied,1790.65
+104,142,153,27,1,8,92.89,Second,Partly Satisfied,-265.96
+104,158,75,17,4,6,60.68,Second,Partly Satisfied,-229.42
+104,234,56,9,2,2,189.73,First,Very Satisfied,531.82
+104,307,36,27,3,3,168.33,Manager,More than Satisfied,98.92
+104,315,38,21,6,10,183.72,First,Satisfied,-459.99
+104,356,37,9,4,3,199.57,First,Partly Satisfied,-629.76
+104,368,29,33,2,7,112.62,Second,Very Satisfied,1522.15
+105,40,63,7,2,7,171.06,First,Satisfied,-681.17
+105,90,146,26,5,10,13.07,First,More than Satisfied,374.84
+105,119,141,30,1,8,15.05,Manager,Not at all Satisfied,-127.80
+105,286,84,25,2,8,113.31,First,Satisfied,-291.74
+105,313,195,29,3,7,32.26,Second,More than Satisfied,208.61
+106,16,10,5,1,2,37.68,Manager,Very Satisfied,-553.67
+106,30,198,8,6,9,39.10,First,Partly Satisfied,264.99
+106,60,152,20,2,9,114.77,Second,Very Satisfied,1231.60
+106,203,27,5,7,2,135.25,First,Satisfied,-212.24
+106,227,147,15,5,8,35.26,Second,Very Satisfied,910.64
+106,269,125,16,7,9,6.84,Second,Satisfied,898.61
+106,362,174,3,5,4,189.29,Second,Very Satisfied,588.67
+107,324,146,39,3,9,198.89,Second,Partly Satisfied,1216.88
+108,92,5,30,2,5,49.59,First,Not at all Satisfied,543.51
+108,235,9,9,3,2,153.64,Second,Partly Satisfied,1269.23
+108,332,67,35,3,9,78.64,First,Very Satisfied,1263.36
+109,18,197,30,2,10,168.89,First,Satisfied,45.38
+109,156,35,22,7,3,170.43,First,More than Satisfied,1140.13
+110,147,156,13,4,4,103.41,Second,Not at all Satisfied,344.51
+110,336,110,32,3,6,178.50,First,Satisfied,699.96
+110,396,161,1,7,7,118.58,First,Not at all Satisfied,-487.80
+111,4,114,26,1,7,108.72,First,Satisfied,1500.88
+111,54,90,17,3,7,78.25,First,Not at all Satisfied,791.17
+111,277,148,15,6,3,209.50,First,Very Satisfied,1669.68
+111,279,65,16,4,2,128.36,First,Partly Satisfied,44.98
+112,3,200,3,3,6,80.35,Second,Not at all Satisfied,314.14
+112,77,71,12,7,1,106.42,Second,Partly Satisfied,-490.14
+112,227,57,36,3,4,57.57,Second,Satisfied,676.63
+112,248,92,38,7,7,159.52,First,More than Satisfied,1723.24
+112,277,140,29,7,6,46.60,First,Not at all Satisfied,-142.51
+112,291,170,40,6,6,19.59,First,Very Satisfied,1467.09
+113,1,39,19,2,7,203.52,First,Very Satisfied,833.28
+113,28,38,22,3,3,184.23,First,Partly Satisfied,-16.26
+113,98,61,26,5,4,71.27,First,Very Satisfied,-483.28
+113,132,186,16,7,8,155.71,Second,Partly Satisfied,-770.25
+113,176,108,3,5,3,54.82,Second,Not at all Satisfied,963.40
+113,179,109,35,2,7,61.23,Second,Very Satisfied,1218.17
+113,209,28,18,5,2,90.11,First,More than Satisfied,-38.13
+113,301,145,8,3,6,134.61,Manager,More than Satisfied,883.48
+113,376,77,25,3,5,4.00,First,Partly Satisfied,-559.70
+113,392,154,29,3,7,75.05,First,Very Satisfied,1131.29
+114,55,29,6,2,8,125.15,First,Not at all Satisfied,257.76
+114,229,90,14,6,5,182.48,Second,Satisfied,731.10
+114,244,179,15,4,2,190.13,First,Very Satisfied,1601.89
+114,250,109,6,2,9,15.88,First,Very Satisfied,-728.63
+114,330,59,26,6,5,175.07,First,Not at all Satisfied,257.76
+115,42,122,34,6,4,202.56,Second,More than Satisfied,937.25
+115,188,69,17,6,3,20.32,Second,Very Satisfied,1022.55
+115,287,122,2,6,9,85.92,Manager,More than Satisfied,1089.57
+116,39,97,13,1,3,106.58,First,Not at all Satisfied,1793.55
+116,143,82,13,1,6,85.78,First,Satisfied,783.33
+116,166,38,13,3,3,131.80,First,Very Satisfied,35.28
+116,232,89,25,6,6,171.98,First,More than Satisfied,1141.50
+116,344,31,17,1,5,37.85,First,More than Satisfied,575.07
+116,367,32,6,4,7,84.15,Second,Partly Satisfied,-709.49
+117,6,90,13,6,9,182.47,Second,Not at all Satisfied,-561.16
+117,17,3,14,4,10,197.26,Second,Partly Satisfied,910.70
+117,242,35,11,5,9,168.40,Second,Partly Satisfied,1709.77
+117,254,186,33,2,5,61.54,First,Very Satisfied,273.84
+117,260,73,13,4,3,128.70,First,Very Satisfied,1747.41
+117,308,111,2,1,10,134.85,Manager,Partly Satisfied,411.96
+117,332,150,31,7,3,95.62,Second,Not at all Satisfied,-783.28
+117,387,152,21,7,1,20.07,First,Satisfied,138.07
+118,15,107,6,6,8,4.20,First,Not at all Satisfied,-621.36
+118,185,154,29,6,6,30.04,First,Very Satisfied,287.32
+118,215,15,1,6,7,92.28,First,Partly Satisfied,-286.17
+118,256,43,40,7,3,81.73,First,Satisfied,15.42
+118,371,128,6,5,10,68.83,First,Satisfied,1017.66
+119,181,159,13,5,8,190.01,Second,Satisfied,168.96
+119,240,51,39,1,4,196.12,First,Partly Satisfied,855.24
+119,309,89,11,4,10,9.27,Second,Very Satisfied,1674.16
+119,311,85,27,7,3,40.81,First,More than Satisfied,-288.42
+119,319,49,19,1,7,202.02,Manager,Satisfied,1314.05
+119,321,17,25,4,2,177.91,First,Satisfied,742.26
+119,354,21,21,5,6,101.01,Second,Satisfied,-116.29
+119,364,193,30,6,5,82.99,First,Satisfied,391.84
+120,226,9,34,5,4,188.67,First,Partly Satisfied,.74
+121,12,155,25,5,3,47.56,First,Very Satisfied,-22.08
+121,65,187,33,6,9,166.26,Second,Not at all Satisfied,699.02
+121,171,132,14,4,7,197.69,Second,More than Satisfied,562.33
+121,218,66,27,6,10,95.05,Manager,Partly Satisfied,689.78
+121,270,10,18,4,4,190.09,First,Partly Satisfied,1361.19
+121,273,134,1,5,8,16.45,First,Partly Satisfied,724.03
+122,219,80,30,7,9,198.46,First,Not at all Satisfied,1769.03
+122,270,168,19,4,1,50.95,First,Not at all Satisfied,-691.65
+122,271,147,18,5,6,96.56,Second,More than Satisfied,955.81
+123,126,78,18,2,2,68.03,First,More than Satisfied,1150.11
+123,151,192,24,6,9,12.37,Second,Not at all Satisfied,1050.49
+123,166,189,22,5,3,62.42,Second,Very Satisfied,-456.00
+123,243,166,40,2,1,49.71,First,Satisfied,1337.74
+123,265,123,19,7,6,65.79,First,Partly Satisfied,17.15
+123,323,28,14,3,1,93.80,Second,Partly Satisfied,1184.86
+123,324,189,39,6,5,116.85,First,More than Satisfied,-251.80
+124,106,149,19,2,5,47.54,Second,Satisfied,892.08
+124,123,165,8,6,10,105.86,Manager,More than Satisfied,570.20
+124,171,195,13,3,9,205.27,Second,Very Satisfied,1629.04
+124,226,58,2,1,5,113.64,First,Very Satisfied,272.48
+124,273,60,30,7,9,19.33,First,Not at all Satisfied,-761.83
+124,364,24,16,7,9,176.22,First,Very Satisfied,-566.75
+125,173,174,32,6,5,151.72,Second,Partly Satisfied,1176.98
+125,231,29,19,5,10,63.93,First,More than Satisfied,-457.29
+125,395,33,27,6,3,202.76,Second,Satisfied,1740.39
+126,20,85,36,6,3,45.57,First,Very Satisfied,873.31
+126,148,177,40,3,3,55.84,Manager,Satisfied,-388.07
+126,225,91,26,1,1,48.51,Second,Very Satisfied,-615.41
+126,234,133,13,7,3,127.01,Second,Not at all Satisfied,1525.92
+127,9,41,39,2,6,144.17,Manager,Partly Satisfied,1096.17
+127,114,16,11,2,8,76.43,First,Satisfied,540.79
+127,115,61,23,5,8,55.31,Manager,Very Satisfied,824.94
+127,126,137,26,6,2,36.87,First,Satisfied,-289.79
+127,166,190,23,1,1,100.93,Manager,Partly Satisfied,1358.84
+127,182,57,38,6,1,136.75,First,Very Satisfied,1251.56
+127,307,78,17,3,4,117.13,First,Very Satisfied,1549.82
+128,146,179,7,3,1,65.35,First,Satisfied,76.73
+128,243,3,7,5,5,183.35,Second,More than Satisfied,-483.01
+128,320,22,15,3,7,157.46,First,Not at all Satisfied,1568.13
+128,320,79,20,3,2,110.40,First,More than Satisfied,1040.95
+128,366,89,16,1,8,171.61,Second,Very Satisfied,469.11
+129,112,76,25,7,8,74.82,First,More than Satisfied,1233.44
+129,323,115,31,6,8,68.36,Second,Satisfied,627.48
+130,159,88,15,7,3,135.79,First,Not at all Satisfied,544.54
+130,254,104,17,5,8,77.39,First,Very Satisfied,-231.32
+130,260,16,27,2,8,55.98,First,Not at all Satisfied,-238.79
+130,281,61,13,4,10,55.95,First,Partly Satisfied,63.69
+130,367,73,23,6,3,124.48,First,Satisfied,-601.39
+130,372,174,9,7,4,92.96,First,More than Satisfied,892.45
+131,14,45,14,1,7,85.55,First,More than Satisfied,347.91
+131,57,38,38,3,1,123.83,First,Partly Satisfied,-603.58
+131,155,47,37,7,1,168.59,First,More than Satisfied,677.31
+131,217,68,40,2,10,45.57,Second,Not at all Satisfied,-62.72
+131,321,28,31,5,6,174.22,Second,More than Satisfied,735.53
+132,47,182,27,5,10,47.88,Manager,Not at all Satisfied,1415.68
+132,228,144,33,2,2,49.25,Manager,Satisfied,608.44
+132,274,71,2,1,6,37.74,First,Satisfied,470.18
+132,382,96,7,2,2,206.58,First,Very Satisfied,1733.90
+134,6,195,18,1,3,123.65,Manager,Satisfied,1527.94
+134,67,24,5,1,7,118.41,Second,Satisfied,1087.29
+134,109,196,18,4,1,96.65,First,Not at all Satisfied,1061.13
+134,110,83,7,6,9,167.17,Second,More than Satisfied,-489.37
+134,116,193,6,5,10,173.79,First,Satisfied,845.84
+134,295,58,17,4,9,186.20,Second,Satisfied,-605.68
+134,330,75,39,2,6,172.39,Second,Very Satisfied,814.72
+135,60,175,6,6,5,129.34,First,Not at all Satisfied,-627.88
+135,99,95,7,2,4,150.54,Second,Satisfied,731.92
+135,143,129,27,4,10,40.55,Second,Satisfied,1520.00
+135,229,108,4,2,5,208.88,First,Partly Satisfied,-619.42
+135,242,74,11,5,8,182.16,First,Satisfied,1277.50
+135,308,38,6,6,9,24.92,First,Very Satisfied,1344.57
+135,330,89,25,6,10,43.53,First,Partly Satisfied,-555.81
+136,101,88,6,4,1,49.74,First,Satisfied,728.51
+136,164,80,9,1,7,154.08,First,Not at all Satisfied,-592.75
+136,224,125,38,1,2,13.51,First,Very Satisfied,1448.89
+136,244,189,25,5,8,80.58,First,Not at all Satisfied,1268.38
+136,273,105,29,7,8,92.53,First,More than Satisfied,57.80
+137,25,112,6,2,3,48.14,Second,Partly Satisfied,902.41
+137,33,164,23,6,10,138.50,First,Satisfied,289.00
+137,120,58,16,6,5,137.59,First,Satisfied,1024.02
+137,215,5,7,2,3,68.44,First,Very Satisfied,-416.38
+137,219,39,28,3,3,133.24,Second,Partly Satisfied,284.23
+137,300,46,6,1,1,108.45,Second,Satisfied,1447.65
+138,68,58,29,5,1,25.13,Second,Satisfied,-413.01
+138,111,28,4,7,7,33.37,First,Partly Satisfied,443.36
+138,369,34,18,2,8,141.10,First,Satisfied,1128.42
+139,92,60,36,4,9,146.89,Manager,More than Satisfied,-278.59
+139,241,99,31,2,6,151.98,First,Satisfied,1176.78
+139,257,175,28,3,10,43.65,First,More than Satisfied,-626.36
+139,272,86,31,5,8,197.17,First,Partly Satisfied,1479.03
+139,310,49,26,2,2,67.71,Second,Partly Satisfied,1725.86
+139,317,17,21,5,7,90.76,Second,Satisfied,621.62
+140,163,186,17,2,3,207.93,Manager,More than Satisfied,-585.85
+140,165,102,22,2,9,118.92,Second,More than Satisfied,-660.05
+140,170,144,34,4,1,126.64,Second,Partly Satisfied,594.32
+140,227,20,14,7,1,174.61,Second,Not at all Satisfied,1509.05
+140,330,167,30,6,5,70.58,Second,More than Satisfied,-657.99
+140,385,48,30,5,9,100.72,First,Satisfied,514.61
+141,44,145,15,6,2,72.05,Manager,Satisfied,480.93
+141,96,112,25,6,2,176.83,First,More than Satisfied,821.20
+141,207,146,9,2,8,111.38,Second,Partly Satisfied,-412.64
+141,309,111,33,7,2,6.29,First,Not at all Satisfied,-217.27
+142,97,185,8,4,2,171.58,Second,More than Satisfied,168.07
+142,127,199,16,7,5,94.98,First,Partly Satisfied,1364.33
+142,400,134,9,5,8,54.39,Manager,Not at all Satisfied,1040.53
+143,65,88,36,7,4,39.01,First,Very Satisfied,1514.86
+143,121,142,8,6,7,76.07,First,Partly Satisfied,-166.47
+143,137,168,3,1,9,179.55,Manager,Not at all Satisfied,1403.30
+143,187,149,4,2,2,75.95,First,Very Satisfied,473.68
+143,391,79,24,2,1,125.40,Manager,More than Satisfied,-559.10
+144,32,92,37,3,9,140.05,First,Partly Satisfied,319.73
+144,129,81,9,4,8,163.46,Second,More than Satisfied,175.31
+144,159,84,3,1,6,42.24,First,Partly Satisfied,-109.60
+144,292,79,4,7,4,9.57,First,More than Satisfied,815.97
+145,11,48,9,6,4,176.93,Manager,Not at all Satisfied,1441.84
+145,42,52,36,5,3,54.98,Second,Satisfied,174.46
+145,58,44,8,1,4,189.43,First,Partly Satisfied,1155.74
+145,149,8,15,2,2,193.66,First,Satisfied,-679.62
+145,219,154,12,1,1,199.29,Manager,More than Satisfied,531.61
+145,239,92,28,2,9,128.21,Second,Very Satisfied,291.16
+146,150,152,9,6,2,141.19,Second,More than Satisfied,1706.48
+146,214,147,40,7,7,117.54,First,Partly Satisfied,362.25
+146,252,161,17,5,7,93.42,Second,Very Satisfied,825.13
+147,131,120,36,7,10,28.87,Second,Partly Satisfied,636.29
+147,167,82,8,1,7,152.07,First,Satisfied,272.73
+147,278,59,20,4,9,62.74,First,More than Satisfied,-338.62
+147,317,22,25,5,7,109.17,Second,Very Satisfied,-263.70
+148,65,100,9,7,7,50.79,Second,Partly Satisfied,-415.98
+148,102,103,23,5,4,107.33,Second,Very Satisfied,1082.21
+148,119,90,10,2,6,201.07,First,More than Satisfied,1565.23
+148,202,35,3,3,10,19.50,Manager,Not at all Satisfied,1034.46
+148,219,166,26,3,2,151.29,Second,Very Satisfied,-636.91
+148,246,127,25,1,2,61.56,Manager,Not at all Satisfied,1684.60
+148,249,40,14,5,7,30.27,First,Satisfied,1175.70
+148,305,136,36,2,6,145.72,Second,Partly Satisfied,1641.55
+148,321,7,12,6,3,83.14,First,More than Satisfied,1799.50
+149,284,156,15,2,5,15.57,Second,Very Satisfied,-234.78
+150,30,183,17,4,2,110.94,First,More than Satisfied,466.87
+150,50,87,37,1,2,61.87,First,Partly Satisfied,868.36
+150,51,119,4,2,5,169.38,Second,Partly Satisfied,185.89
+150,77,168,30,6,10,44.78,First,Not at all Satisfied,-550.46
+150,154,72,40,3,2,11.06,Manager,Satisfied,1412.75
+150,322,192,20,1,2,200.48,First,Very Satisfied,-638.57
+150,363,128,3,2,5,54.12,First,Not at all Satisfied,58.90
+150,381,13,30,3,2,196.55,Second,Satisfied,-738.30
+151,65,95,9,3,4,159.57,Second,More than Satisfied,524.50
+151,72,123,1,5,7,162.83,Manager,Partly Satisfied,1377.23
+152,9,78,11,1,4,204.26,First,Not at all Satisfied,1661.51
+152,127,33,34,5,2,77.19,First,Very Satisfied,494.02
+152,233,101,16,2,3,107.06,First,Satisfied,-434.76
+152,279,163,36,2,8,158.88,Second,Satisfied,-618.75
+152,333,184,32,1,7,111.99,Manager,More than Satisfied,-2.87
+153,316,166,23,2,3,30.97,First,Very Satisfied,1241.08
+154,22,167,14,3,1,47.05,First,Partly Satisfied,-268.15
+154,54,191,33,1,1,39.81,Second,Partly Satisfied,1343.14
+154,155,25,20,3,1,10.96,First,Very Satisfied,159.12
+154,192,42,22,6,6,119.75,First,Partly Satisfied,-297.33
+154,195,71,27,6,7,142.83,Second,Very Satisfied,-533.16
+154,211,177,7,6,7,69.73,Manager,Not at all Satisfied,-638.65
+154,222,129,20,2,3,137.58,First,Not at all Satisfied,-19.92
+154,306,69,27,6,5,190.00,Manager,More than Satisfied,-664.65
+155,66,25,2,6,10,106.35,First,More than Satisfied,976.26
+155,72,46,37,3,7,32.07,First,More than Satisfied,928.68
+155,142,149,24,7,2,47.72,Manager,Not at all Satisfied,1260.14
+155,163,65,8,4,3,99.35,Manager,Very Satisfied,825.08
+155,249,56,21,4,10,61.16,First,More than Satisfied,127.84
+155,279,12,2,5,6,73.65,First,Partly Satisfied,79.32
+155,290,104,2,7,9,189.40,First,Very Satisfied,1773.77
+155,378,24,28,1,5,54.68,Second,More than Satisfied,235.32
+155,379,199,18,2,7,133.04,First,Not at all Satisfied,1724.79
+155,386,62,26,2,1,134.02,Second,Very Satisfied,925.21
+155,398,175,11,7,2,78.72,Second,Partly Satisfied,1068.33
+156,84,175,15,7,5,91.43,Manager,Not at all Satisfied,-29.82
+156,164,140,26,1,2,51.06,First,Very Satisfied,-545.46
+156,300,134,39,4,8,73.48,First,More than Satisfied,1631.84
+156,318,154,1,3,7,14.58,Second,Very Satisfied,881.58
+157,200,170,8,5,9,37.29,Second,Satisfied,-638.85
+158,163,82,8,2,9,35.13,First,More than Satisfied,22.60
+158,236,66,2,2,5,103.71,Second,More than Satisfied,870.26
+158,324,121,23,3,6,158.93,First,More than Satisfied,886.63
+158,389,55,1,3,10,105.22,Manager,Very Satisfied,523.42
+159,20,126,24,1,5,194.13,Second,More than Satisfied,-602.39
+159,104,146,19,2,2,98.05,Manager,More than Satisfied,209.08
+159,158,7,12,1,4,191.05,Second,Very Satisfied,1191.67
+159,253,143,4,4,1,33.18,Manager,Not at all Satisfied,289.92
+159,288,11,4,6,10,166.20,Second,Not at all Satisfied,1418.81
+159,388,49,38,1,3,62.31,First,More than Satisfied,-507.31
+160,15,105,20,7,7,116.41,Second,More than Satisfied,835.56
+160,22,27,27,1,2,108.70,Second,Very Satisfied,587.48
+160,174,66,40,7,7,49.50,First,Satisfied,708.03
+160,180,76,21,6,7,25.55,Manager,More than Satisfied,-611.47
+160,261,120,35,5,1,64.16,First,Partly Satisfied,1043.27
+160,324,114,2,4,4,209.05,Second,Very Satisfied,546.37
+160,329,62,13,2,6,173.43,Second,Satisfied,438.19
+160,358,64,11,1,7,79.17,Second,More than Satisfied,1648.64
+161,56,78,32,4,1,29.98,First,Satisfied,1186.62
+161,93,29,8,1,8,61.48,First,Not at all Satisfied,61.76
+161,97,88,34,2,7,109.31,First,More than Satisfied,657.39
+161,374,194,21,3,9,192.83,First,Partly Satisfied,-615.26
+162,173,107,20,7,9,151.37,Second,Partly Satisfied,625.77
+162,185,12,14,1,10,13.06,First,Not at all Satisfied,638.42
+162,336,193,16,1,5,180.02,First,Very Satisfied,1219.86
+162,340,132,16,6,9,10.12,First,Partly Satisfied,-704.78
+163,29,81,23,2,4,171.34,First,Very Satisfied,1483.86
+163,65,96,1,7,7,99.23,Second,Very Satisfied,-114.20
+163,114,67,1,3,2,38.01,First,Partly Satisfied,1680.14
+163,179,156,11,2,4,108.59,First,Not at all Satisfied,-207.42
+163,243,74,34,1,1,51.26,Second,More than Satisfied,-4.19
+163,301,48,26,4,5,164.31,First,Not at all Satisfied,-740.54
+163,342,34,40,1,1,59.17,First,Satisfied,682.72
+165,93,174,37,2,5,126.55,First,Partly Satisfied,1309.53
+165,174,44,39,4,10,177.06,Second,Not at all Satisfied,586.83
+165,250,76,24,3,10,82.21,First,More than Satisfied,-212.43
+165,307,123,32,7,1,61.42,Second,Not at all Satisfied,109.42
+165,349,127,11,5,6,53.33,Manager,Partly Satisfied,1613.11
+166,14,24,27,5,8,35.72,Second,Very Satisfied,1176.77
+166,57,160,20,5,2,39.18,First,More than Satisfied,1296.66
+166,68,200,11,7,1,27.62,Manager,Not at all Satisfied,1209.97
+166,180,119,35,2,1,133.53,First,Satisfied,1144.37
+166,279,153,25,4,9,138.79,First,Not at all Satisfied,898.52
+166,347,143,18,3,1,158.43,First,Very Satisfied,1621.82
+167,113,116,1,4,8,47.02,Manager,Not at all Satisfied,1254.78
+167,206,98,11,3,7,52.74,First,Very Satisfied,855.67
+167,324,75,34,4,9,194.19,Second,Satisfied,-605.27
+168,63,26,35,4,10,32.47,Manager,Partly Satisfied,-539.35
+168,112,24,27,4,8,11.23,First,Not at all Satisfied,1737.20
+168,162,55,6,4,7,99.26,Second,Not at all Satisfied,1093.13
+168,196,135,30,4,8,14.84,First,Partly Satisfied,56.64
+168,260,86,5,4,6,168.09,Second,Very Satisfied,-260.18
+168,279,150,34,5,10,130.11,Manager,Satisfied,949.31
+168,297,57,16,6,2,166.60,First,More than Satisfied,1215.50
+168,299,119,34,3,9,121.18,Manager,Satisfied,1177.93
+168,348,117,38,6,4,41.72,Manager,Not at all Satisfied,238.06
+169,15,95,21,2,2,136.81,Manager,Not at all Satisfied,1599.72
+169,55,62,1,3,9,107.95,Second,Very Satisfied,1375.08
+169,95,18,20,3,4,49.09,First,Partly Satisfied,263.68
+169,126,84,36,3,8,86.13,Second,More than Satisfied,841.79
+169,195,151,32,5,3,198.24,First,Satisfied,1789.76
+169,202,97,32,2,1,109.81,Manager,More than Satisfied,-582.28
+170,102,175,30,3,4,30.31,First,Satisfied,188.45
+170,134,10,4,6,5,200.40,Second,More than Satisfied,1666.88
+170,183,198,5,2,8,88.23,First,Satisfied,1315.15
+170,222,98,39,7,3,53.12,First,Not at all Satisfied,1069.21
+170,302,86,5,1,8,29.92,Second,Satisfied,-245.33
+170,364,140,40,1,7,202.13,First,Very Satisfied,754.76
+171,276,123,37,6,3,4.62,Manager,Partly Satisfied,1703.51
+171,353,122,16,6,5,7.55,Second,Not at all Satisfied,1543.05
+172,185,118,31,6,5,44.68,Second,Partly Satisfied,396.86
+172,303,87,1,7,7,189.20,Second,Very Satisfied,824.24
+172,318,155,6,7,6,109.81,First,Satisfied,-765.95
+172,324,79,2,2,4,92.32,First,More than Satisfied,1666.03
+172,333,114,6,1,2,115.04,Second,Very Satisfied,135.08
+172,390,90,33,5,3,82.88,First,Not at all Satisfied,1517.88
+173,15,119,22,1,9,204.97,Manager,More than Satisfied,1062.87
+173,66,39,27,4,1,168.19,Second,More than Satisfied,-208.15
+173,85,36,1,7,7,110.57,First,Partly Satisfied,521.06
+173,136,2,25,2,5,33.31,Second,More than Satisfied,919.47
+173,146,165,25,4,3,80.08,Manager,Very Satisfied,875.12
+173,244,47,1,1,3,60.53,Second,More than Satisfied,1028.60
+173,247,15,16,3,3,4.46,Manager,Partly Satisfied,1199.72
+173,312,49,20,4,7,62.48,First,Partly Satisfied,439.40
+174,69,103,18,4,3,111.39,Second,Partly Satisfied,413.46
+174,133,23,34,3,8,208.72,Second,Satisfied,105.54
+174,300,44,7,6,5,4.10,First,Very Satisfied,646.77
+174,312,27,12,5,9,125.74,First,Very Satisfied,-433.70
+174,377,33,33,4,3,172.93,First,Satisfied,1217.56
+175,147,8,28,4,8,92.10,Second,Not at all Satisfied,9.23
+175,169,74,35,2,5,31.12,First,Partly Satisfied,1327.98
+175,365,97,31,4,9,5.68,First,More than Satisfied,224.34
+176,55,36,4,3,9,60.59,First,Not at all Satisfied,1261.34
+176,94,40,14,7,1,91.41,Second,Partly Satisfied,267.40
+177,85,6,18,6,4,52.88,Second,Not at all Satisfied,-62.46
+177,86,58,17,1,1,198.14,First,Very Satisfied,682.80
+177,171,40,25,2,10,152.60,First,Partly Satisfied,885.84
+177,196,44,33,2,3,134.12,Second,Very Satisfied,-625.83
+177,244,163,15,7,7,157.55,First,Partly Satisfied,1795.75
+177,273,95,5,6,3,52.80,Manager,Satisfied,-274.58
+177,306,12,22,6,7,197.13,Second,Not at all Satisfied,1119.44
+177,311,50,3,6,8,133.88,Manager,Not at all Satisfied,1763.44
+177,349,80,21,1,10,87.44,First,Very Satisfied,-88.73
+178,65,5,11,1,10,184.10,Second,Very Satisfied,294.62
+178,98,53,5,1,3,59.50,Manager,Very Satisfied,527.18
+178,119,133,40,3,9,150.83,Second,More than Satisfied,97.52
+178,137,138,21,5,5,65.68,Manager,More than Satisfied,-487.14
+178,279,194,12,1,8,76.77,First,Not at all Satisfied,945.00
+178,295,147,32,5,8,8.65,First,Partly Satisfied,1714.39
+178,395,28,22,1,2,177.70,First,Satisfied,-448.90
+179,35,190,3,1,8,81.15,Second,Partly Satisfied,131.35
+179,138,193,40,1,9,161.85,First,Partly Satisfied,-198.64
+179,206,157,9,5,10,28.79,First,Very Satisfied,-539.87
+179,208,42,38,7,1,145.54,Manager,More than Satisfied,1504.34
+179,391,64,40,2,9,75.97,Second,Very Satisfied,-76.44
+180,106,77,14,4,1,107.25,First,Not at all Satisfied,1163.68
+180,122,69,17,2,3,46.86,Second,Not at all Satisfied,336.52
+180,142,146,14,4,9,97.57,First,Satisfied,-267.12
+180,283,184,33,2,8,196.50,First,Not at all Satisfied,1787.38
+180,293,107,5,7,4,8.05,First,Very Satisfied,1285.72
+180,322,50,32,7,1,37.44,Manager,Very Satisfied,688.43
+180,391,9,1,2,8,104.17,Second,Partly Satisfied,1440.96
+180,399,106,9,6,7,66.27,Manager,Partly Satisfied,1548.73
+181,128,178,2,1,9,110.19,First,Partly Satisfied,1751.70
+181,137,62,20,6,1,111.83,Manager,Not at all Satisfied,645.82
+181,204,15,30,3,10,11.85,First,Not at all Satisfied,-570.00
+181,231,25,38,1,10,30.52,First,Very Satisfied,-482.22
+181,346,128,6,5,3,75.19,First,Not at all Satisfied,725.21
+182,233,152,11,3,10,117.13,First,Very Satisfied,890.97
+182,308,193,11,3,3,190.84,Second,Satisfied,93.74
+182,333,47,9,5,10,158.54,First,Very Satisfied,94.35
+183,157,147,13,5,2,207.89,First,More than Satisfied,973.79
+183,199,56,8,1,8,40.03,Second,Satisfied,801.34
+183,211,137,5,3,5,203.71,First,Satisfied,-149.75
+183,233,9,27,2,7,89.74,Second,Not at all Satisfied,272.48
+183,320,196,18,7,8,141.65,Second,Satisfied,747.37
+184,53,52,32,7,1,88.00,Second,Not at all Satisfied,197.33
+184,72,90,23,6,2,62.21,First,Satisfied,1366.36
+184,90,117,10,6,7,191.45,First,Partly Satisfied,-761.14
+184,306,25,18,1,1,181.11,Second,Partly Satisfied,1347.16
+184,330,21,30,1,7,35.09,First,Partly Satisfied,1349.97
+185,108,112,30,2,2,87.94,Manager,More than Satisfied,440.81
+185,143,17,3,1,2,115.85,First,Very Satisfied,1268.86
+185,149,177,33,4,1,163.80,First,More than Satisfied,1546.16
+185,154,66,10,3,8,66.68,Second,Not at all Satisfied,1740.49
+185,199,31,16,3,1,160.71,Manager,Partly Satisfied,1528.82
+185,245,190,35,4,2,101.33,First,Satisfied,769.02
+186,299,144,34,4,5,173.79,First,Not at all Satisfied,479.54
+186,349,126,38,5,3,4.95,First,More than Satisfied,1209.49
+186,362,2,26,4,8,96.47,Second,Very Satisfied,1418.38
+187,17,41,11,6,4,145.94,Second,More than Satisfied,685.76
+187,97,29,26,7,8,113.03,Manager,Not at all Satisfied,-677.07
+187,109,200,32,4,7,93.93,First,Partly Satisfied,266.54
+187,134,32,20,5,5,193.68,First,Partly Satisfied,875.88
+187,146,15,27,7,2,125.04,First,Partly Satisfied,334.09
+187,264,39,5,3,9,165.20,Second,Partly Satisfied,1160.81
+187,352,190,1,6,4,193.53,Manager,More than Satisfied,1745.27
+188,113,190,34,5,9,187.33,Manager,More than Satisfied,1430.14
+188,123,91,27,4,4,46.15,First,Very Satisfied,-560.10
+188,126,199,5,2,2,176.30,Second,More than Satisfied,-167.75
+188,156,20,15,1,4,146.84,Manager,Satisfied,-599.39
+188,163,21,10,4,7,86.51,First,More than Satisfied,1187.13
+188,231,162,10,1,1,149.92,Second,More than Satisfied,1296.62
+188,304,39,21,7,9,44.78,Manager,More than Satisfied,1308.30
+188,327,63,21,2,8,68.09,Second,More than Satisfied,211.49
+188,353,19,29,4,1,55.94,First,Not at all Satisfied,-462.50
+188,365,104,26,6,2,170.40,Manager,Very Satisfied,-292.14
+189,74,12,23,7,3,171.44,Second,Satisfied,-422.77
+189,183,75,22,6,6,73.88,Second,Very Satisfied,-325.33
+189,246,95,17,3,5,106.82,Manager,Partly Satisfied,26.77
+189,270,151,39,2,8,97.71,Second,Not at all Satisfied,1398.82
+189,331,198,40,3,5,82.02,Second,More than Satisfied,1644.99
+189,357,60,30,7,9,166.70,First,Not at all Satisfied,1062.70
+190,8,31,3,5,7,15.65,Manager,More than Satisfied,1704.03
+190,342,183,22,3,5,48.82,Second,Not at all Satisfied,-285.41
+190,343,116,38,1,5,14.26,Second,Partly Satisfied,-353.03
+190,356,145,14,6,2,112.59,Second,Partly Satisfied,658.31
+190,365,120,15,5,4,90.10,First,Satisfied,514.37
+190,370,130,37,6,2,39.30,Second,More than Satisfied,503.16
+190,381,192,33,6,6,204.31,Second,Partly Satisfied,1063.13
+191,151,64,7,3,2,126.72,First,Partly Satisfied,38.21
+191,181,41,35,1,5,32.63,First,Very Satisfied,-693.07
+191,377,90,28,2,3,84.27,Second,Satisfied,490.59
+192,105,135,23,6,10,57.13,First,More than Satisfied,1450.64
+192,217,176,30,4,2,108.23,First,Partly Satisfied,1077.56
+192,245,71,11,1,10,208.12,First,More than Satisfied,495.50
+192,386,79,38,2,8,160.38,First,More than Satisfied,42.82
+193,6,192,16,3,6,52.73,Manager,Satisfied,1760.56
+193,10,76,5,7,3,157.09,First,Satisfied,224.80
+193,123,125,10,3,2,136.90,First,Satisfied,1324.73
+193,135,157,38,4,2,38.86,First,Very Satisfied,588.83
+193,198,89,36,1,8,197.00,Manager,Partly Satisfied,1450.85
+194,81,189,12,6,2,51.48,Second,Not at all Satisfied,-233.74
+194,126,177,2,7,3,83.40,First,Not at all Satisfied,-182.05
+194,186,17,16,4,8,157.18,Second,Satisfied,805.24
+194,235,81,32,2,8,147.41,Second,Satisfied,752.48
+194,323,22,14,4,5,50.87,Manager,Partly Satisfied,1753.76
+194,366,188,14,6,8,104.84,First,Very Satisfied,28.01
+195,149,69,29,7,4,145.10,Second,Partly Satisfied,-704.84
+195,192,96,7,3,5,172.44,Second,More than Satisfied,1234.30
+195,294,91,27,3,5,200.76,First,More than Satisfied,270.17
+195,396,81,27,2,3,209.57,First,Partly Satisfied,25.86
+196,73,188,25,1,6,37.11,Second,More than Satisfied,925.52
+196,76,157,19,2,8,127.52,Manager,Not at all Satisfied,-760.84
+196,198,123,38,3,8,59.66,First,More than Satisfied,-14.25
+196,267,42,7,3,3,189.19,Second,Partly Satisfied,-547.15
+196,296,44,18,3,4,73.08,First,More than Satisfied,1361.24
+197,12,125,23,1,2,90.31,First,Partly Satisfied,60.20
+197,60,51,3,2,9,96.72,First,Satisfied,1003.53
+197,181,198,29,6,7,177.88,First,Not at all Satisfied,1614.17
+197,220,177,31,1,7,145.03,Manager,Partly Satisfied,1036.87
+197,266,39,33,4,1,132.39,First,More than Satisfied,1107.04
+197,274,12,31,3,9,148.32,Manager,Not at all Satisfied,424.34
+198,270,101,28,6,6,177.77,First,Not at all Satisfied,-639.93
+198,314,110,40,1,5,205.99,Second,Not at all Satisfied,550.98
+198,374,167,28,2,4,25.18,First,Not at all Satisfied,1454.49
+199,104,60,23,5,6,169.33,First,Not at all Satisfied,1767.28
+200,35,126,21,4,10,176.26,First,Not at all Satisfied,934.29
+200,169,138,16,1,10,104.28,First,More than Satisfied,1753.84
+200,224,98,9,5,1,15.63,First,Satisfied,1780.96
+200,244,137,1,7,8,74.27,Manager,Satisfied,757.26
+200,292,133,19,7,6,39.05,First,Satisfied,782.34
+200,338,31,16,7,8,146.71,First,Not at all Satisfied,1612.34
+200,349,193,22,5,6,164.11,Second,Satisfied,-224.43
