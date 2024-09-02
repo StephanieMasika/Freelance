@@ -7,11 +7,11 @@ from sklearn.ensemble import IsolationForest
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, confusion_matrix
 
 # Load your dataset (replace with your own data)
-df = pd.read_csv(r'C:\Users\masik\OneDrive\Desktop\Dissertation\HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS\HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS\Train.csv')
+df = pd.read_csv(r'E:\Personal Home\Work\Freelancing\Freelance\Dissertation\1-Unveiling_Deception_In_Healthcare\Datasets\KAGGLE\Train_Outpatientdata-1542865627584.csv')
 
 # Example: Features and label
-X = df.drop('County', axis=1)  # Assuming 'fraud' is the label column
-y = df['County']
+X = df.drop('OperatingPhysician', axis=1)  # Assuming 'OperatingPhysician' is the label column
+y = df['OpertingPhysician']
 
 # Split data into train and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
